@@ -159,13 +159,11 @@ mayuresh@SPIT:~$ _
 
 ---
 
-## 🎵 Current Vibe
+## 🎵 Now Playing on Spotify
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/🎵_Current_Vibe-Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT)
-
-> *"Music is the fuel. Code is the output."*
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&profanity=false)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
 
 </div>
 
