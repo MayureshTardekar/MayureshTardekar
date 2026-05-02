@@ -31,7 +31,7 @@ mayuresh@SPIT:~$ cat current_stack.sh
   [Database        ]  PostgreSQL  |  Supabase  |  Redis
 
 mayuresh@SPIT:~$ cat mission.txt
-  [01] Building AgentForge  --  AI Multi-Agent Orchestration Platform
+  [01] Building ForgeAgent  --  AI Multi-Agent Orchestration Platform
   [02] Building Connekt     --  Campus Social Super-App (Flutter)
   [03] Exploring Web3       --  DeFi  |  NFTs  |  Smart Contracts
 
@@ -92,12 +92,12 @@ mayuresh@SPIT:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MayureshTardekar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayureshTardekar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayureshTardekar&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshTardekar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=10" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayureshTardekar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=10" width="49%" />
 
 </div>
 
@@ -185,7 +185,7 @@ END_SECTION:waka
 ╚════════════════════════════════════════════╝
 ```
 
-**Made with 💚 + ☕ + 🎧 by Mayuresh**
+**Made by Mayuresh🏴☠️👒**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41)
 
