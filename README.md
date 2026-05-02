@@ -6,14 +6,16 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=MayureshTardekar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 [![X (Twitter)](https://img.shields.io/badge/@mayuuuop-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayuuuop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuresh-tardekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-forgeagent.in-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mayuresh1205/)
-[![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP)
+<!-- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP) -->
 
 </div>
 
 ---
 
+<!--
 ```
 mayuresh@SPIT:~$ whoami
   Mayuresh Tardekar
@@ -40,6 +42,7 @@ mayuresh@SPIT:~$ cat stats.txt
 
 mayuresh@SPIT:~$ _
 ```
+-->
 
 ---
 
@@ -125,16 +128,15 @@ mayuresh@SPIT:~$ _
 
 ---
 
+<!--
 ## ⏱️ Wakatime Coding Activity
-
-<div align="center">
+(Coming soon — tracking starts now 🕐)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MayuOP&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&layout=compact)](https://wakatime.com/@MayuOP)
 
-</div>
-
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!- -END_SECTION:waka- ->
+-->
 
 ---
 
@@ -143,7 +145,8 @@ mayuresh@SPIT:~$ _
 <div align="center">
 
 [![AgentForge](https://github-readme-stats.vercel.app/api/pin/?username=MayureshTardekar&repo=AgentForge&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41)](https://github.com/MayureshTardekar/AgentForge)
-[![Connekt](https://github-readme-stats.vercel.app/api/pin/?username=MayureshTardekar&repo=Connekt&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41)](https://github.com/MayureshTardekar/Connekt)
+
+[![EzyVote](https://img.shields.io/badge/🗳️_EzyVote-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ezyvote-git-stable-vite5-mayuresh0512s-projects.vercel.app/)
 
 </div>
 
@@ -169,13 +172,7 @@ mayuresh@SPIT:~$ _
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayureshTardekar&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
