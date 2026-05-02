@@ -134,8 +134,8 @@ mayuresh@SPIT:~$ _
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MayuOP&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&layout=compact)](https://wakatime.com/@MayuOP)
 
-<!--START_SECTION:waka-->
-<!- -END_SECTION:waka- ->
+START_SECTION:waka
+END_SECTION:waka
 -->
 
 ---
@@ -144,7 +144,7 @@ mayuresh@SPIT:~$ _
 
 <div align="center">
 
-[![AgentForge](https://github-readme-stats.vercel.app/api/pin/?username=MayureshTardekar&repo=AgentForge&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41)](https://github.com/MayureshTardekar/AgentForge)
+[![AgentForge](https://img.shields.io/badge/🤖_AgentForge-Live_Website-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 
 [![EzyVote](https://img.shields.io/badge/🗳️_EzyVote-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ezyvote-git-stable-vite5-mayuresh0512s-projects.vercel.app/)
 
