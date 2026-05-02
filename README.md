@@ -14,30 +14,31 @@
 
 ---
 
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   mayuresh@SPIT:~$ whoami                                        │
-│   > Mayuresh Tardekar                                            │
-│   > MCA Student @ SPIT, Andheri (Sardar Patel Institute          │
-│     of Technology), Mumbai                                       │
-│                                                                  │
-│   mayuresh@SPIT:~$ cat current_stack.sh                          │
-│   > Full Stack Dev  →  Flutter • React • Node.js • Supabase      │
-│   > Blockchain Dev  →  Solidity • Sui Move • Web3.js             │
-│   > AI / Agents     →  LangChain • LangGraph • Gemini API        │
-│   > DevOps          →  Docker • GitHub Actions • CI/CD           │
-│   > Database        →  PostgreSQL • Supabase • Firebase          │
-│                                                                  │
-│   mayuresh@SPIT:~$ cat mission.txt                               │
-│   > 🤖 Building AgentForge  — AI Multi-Agent Orchestration       │
-│   > 📱 Building Connekt     — Campus Social Super-App            │
-│   > ⛓️  Exploring Web3      — DeFi • NFTs • Smart Contracts      │
-│                                                                  │
-│   mayuresh@SPIT:~$ uptime                                        │
-│   > Coding since 2021 | Still no sleep scheduled                 │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+```
+mayuresh@SPIT:~$ whoami
+  Mayuresh Tardekar
+  MCA Student @ SPIT, Andheri (Sardar Patel Institute of Technology), Mumbai
+
+mayuresh@SPIT:~$ cat current_stack.sh
+  [Mobile / Frontend]  Flutter  |  Dart  |  React  |  JavaScript
+  [Backend / APIs  ]  Node.js  |  Java  |  Spring Boot  |  FastAPI  |  Python
+  [Blockchain / Web3]  Solidity  |  Sui Move  |  Hardhat  |  Web3.js
+  [AI / Agents     ]  LangChain  |  LangGraph  |  Gemini  |  Claude Code
+  [Context Eng.    ]  Prompt Design  |  RAG  |  Multi-Agent Orchestration
+  [DevOps          ]  Docker  |  GitHub Actions  |  CI/CD  |  Linux
+  [Database        ]  PostgreSQL  |  Supabase  |  Redis
+
+mayuresh@SPIT:~$ cat mission.txt
+  [01] Building AgentForge  --  AI Multi-Agent Orchestration Platform
+  [02] Building Connekt     --  Campus Social Super-App (Flutter)
+  [03] Exploring Web3       --  DeFi  |  NFTs  |  Smart Contracts
+
+mayuresh@SPIT:~$ cat stats.txt
+  LeetCode    --  216 problems solved  |  #709354 Global Rank
+  Wakatime    --  Tracking every hour I code. Always.
+  Uptime      --  Coding since 2021  |  No sleep mode detected.
+
+mayuresh@SPIT:~$ _
 ```
 
 ---
@@ -54,11 +55,12 @@
 
 #### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### ⛓️ Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -71,6 +73,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-00FF41?style=for-the-badge&logo=probot&logoColor=black)
 
 #### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -110,7 +114,12 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mayuresh1205?theme=dark&font=Fira+Code&ext=heatmap&border=0)](https://leetcode.com/u/Mayuresh1205/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mayuresh1205?theme=dark&font=Fira+Code&border=0&width=500)](https://leetcode.com/u/Mayuresh1205/)
+
+[![Easy](https://img.shields.io/badge/Easy-92-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
+[![Medium](https://img.shields.io/badge/Medium-94-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
+[![Hard](https://img.shields.io/badge/Hard-30-ef4743?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
+[![Rank](https://img.shields.io/badge/Global_Rank-%23709354-5b21b6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
 
 </div>
 
@@ -140,21 +149,23 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://github.com/MayureshTardekar/MayureshTardekar/blob/output/github-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayureshTardekar&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&hide_border=true&radius=8)](https://github.com/MayureshTardekar)
 
 </div>
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎵 Current Vibe
 
 <div align="center">
 
-[![Spotify](https://novatorem-mayureshtardekar.vercel.app/api/spotify)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/🎵_Current_Vibe-Listening_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT)
+
+> *"Music is the fuel. Code is the output."*
 
 </div>
 
