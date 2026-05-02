@@ -7,7 +7,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=MayureshTardekar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 [![X (Twitter)](https://img.shields.io/badge/@mayuuuop-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayuuuop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuop)
-[![Portfolio](https://img.shields.io/badge/Portfolio-forgeagent.in-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mayuresh1205/)
 <!-- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP) -->
 
