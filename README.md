@@ -7,7 +7,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=MayureshTardekar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 [![X (Twitter)](https://img.shields.io/badge/@mayuuuop-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayuuuop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuop)
-[![Portfolio](https://img.shields.io/badge/Portfolio-forgeagent.in-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mayuresh1205/)
 <!-- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP) -->
 
@@ -64,7 +63,7 @@ mayuresh@SPIT:~$ _
 
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Sui Move](https://img.shields.io/badge/Sui_Move-4CA2FF?style=flat-square&logoColor=white)
+![Sui Move](https://img.shields.io/badge/Sui_Move-4CA2FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjkiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAyOSAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMi41MzYzIDE1LjAxNDJMMjIuNTM1NyAxNS4wMTU4QzI0LjAwNDQgMTYuODU3NCAyNC44ODIxIDE5LjE4OTggMjQuODgyMSAyMS43MjY4QzI0Ljg4MjEgMjQuMzAxNCAyMy45NzgxIDI2LjY2NTUgMjIuNDY5OCAyOC41MTk2TDIyLjMzOTkgMjguNjc5MkwyMi4zMDU1IDI4LjQ3NjNDMjIuMjc2MiAyOC4zMDM4IDIyLjI0MTggMjguMTI5NiAyMi4yMDE4IDI3Ljk1NEMyMS40NDcgMjQuNjM3NCAxOC45ODc2IDIxLjc5MzQgMTQuOTM5NyAxOS40OTA3QzEyLjIwNjMgMTcuOTM5OSAxMC42NDE3IDE2LjA3MjcgMTAuMjMwOSAxMy45NTExQzkuOTY1NTggMTIuNTc5MiAxMC4xNjI4IDExLjIwMTIgMTAuNTQ0IDEwLjAyMDlDMTAuOTI1MSA4Ljg0MTAzIDExLjQ5MTkgNy44NTI0NyAxMS45NzM1IDcuMjU3M0wxMS45NzM4IDcuMjU2OTJMMTMuNTQ4NCA1LjMzMTVDMTMuODI0NiA0Ljk5Mzg0IDE0LjM0MTMgNC45OTM4NCAxNC42MTc1IDUuMzMxNUwyMi41MzYzIDE1LjAxNDJaTTI1LjAyNjkgMTMuMDkwNkwyNS4wMjcyIDEzLjA4OThMMTQuNDczMSAwLjE4NDgwMkMxNC4yNzE1IC0wLjA2MTYwMDcgMTMuODk0MyAtMC4wNjE2MDA5IDEzLjY5MjggMC4xODQ4MDJMMy4xMzg1IDEzLjA5TDMuMTM4NzggMTMuMDkwN0wzLjEwNDQ0IDEzLjEzMzNDMS4xNjIyNiAxNS41NDM0IDAgMTguNjA2MSAwIDIxLjk0MDJDMCAyOS43MDUxIDYuMzA0OTggMzYgMTQuMDgyOSAzNkMyMS44NjA4IDM2IDI4LjE2NTggMjkuNzA1MSAyOC4xNjU4IDIxLjk0MDJDMjguMTY1OCAxOC42MDYyIDI3LjAwMzUgMTUuNTQzNCAyNS4wNjE0IDEzLjEzMzNMMjUuMDI2OSAxMy4wOTA2Wk01LjY2MzgxIDE0Ljk3MjdMNS42NjQyMyAxNC4xOTk3TDYuNjA4MjUgMTMuODE3OEw2LjYzNjc4IDE0LjAzMDlDNi42NTkzOCAxNC4xOTk3IDYuNjg2NzggMTQuMzY5NCA2LjcxOTI4IDE0LjUzOThDNy4zMzAwOSAxNy43NDQ2IDkuNTEyMDggMjAuNDE2OSAxMy4xNjAyIDIyLjQ4NjVDMTYuMzMxMiAyNC4yOTEyIDE4LjE3NzUgMjYuMzY2NiAxOC43MDk1IDI4LjY0MjdDMTguOTMxNCAyOS41OTI2IDE4Ljk3MSAzMC41MjcyIDE4Ljg3NDkgMzEuMzQ0M0wxOC44Njg5IDMxLjM5NDhMMTguODIzMiAzMS40MTcyQzE3LjM5MTkgMzIuMTE2NCAxNS43ODMgMzIuNTA4OCAxNC4wODI2IDMyLjUwODhDOC4xMTgzMiAzMi41MDg4IDMuMjgzMDggMjcuNjgxNyAzLjI4MzA4IDIxLjcyNjhDMy4yODMwOCAxOS4xNzAxIDQuMTc0NDMgMTYuODIwOCA1LjY2MzgxIDE0Ljk3MjdaIiBmaWxsPSIjRjdGN0Y4Ii8%2BCjwvc3ZnPg%3D%3D&logoColor=white)
 
 **🤖 AI & Agents**
 
@@ -73,7 +72,7 @@ mayuresh@SPIT:~$ _
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00FF41?style=flat-square&logoColor=black)
-![pgvector](https://img.shields.io/badge/pgvector-Vector_DB-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-Vector_DB-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![GenAI](https://img.shields.io/badge/GenAI-Generative_AI-8A2BE2?style=flat-square&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Multi--Agent_Systems-FF6B35?style=flat-square&logoColor=white)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-FF6B35?style=flat-square&logoColor=white)
@@ -165,24 +164,15 @@ END_SECTION:waka
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&profanity=false)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&profanity=false)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
 
 </div>
 
 ---
 
-
-
----
-
 <div align="center">
 
-```
-╔════════════════════════════════════════════╗
-║  "First, solve the problem.               ║
-║   Then, write the code."  — John Johnson  ║
-╚════════════════════════════════════════════╝
-```
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 **Made by Mayuresh🏴☠️👒**
 
