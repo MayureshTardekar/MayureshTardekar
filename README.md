@@ -7,6 +7,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=MayureshTardekar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 [![X (Twitter)](https://img.shields.io/badge/@mayuuuop-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayuuuop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-forgeagent.in-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mayuresh1205/)
 <!-- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP) -->
 
@@ -30,7 +31,7 @@ mayuresh@SPIT:~$ cat current_stack.sh
   [Database        ]  PostgreSQL  |  Supabase  |  Redis
 
 mayuresh@SPIT:~$ cat mission.txt
-  [01] Building ForgeAgent  --  AI Multi-Agent Orchestration Platform
+  [01] Building AgentForge  --  AI Multi-Agent Orchestration Platform
   [02] Building Connekt     --  Campus Social Super-App (Flutter)
   [03] Exploring Web3       --  DeFi  |  NFTs  |  Smart Contracts
 
@@ -47,43 +48,42 @@ mayuresh@SPIT:~$ _
 
 ## 🧠 Tech Stack
 
-#### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-#### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**📱 Mobile & Frontend**
 
-#### ⛓️ Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui_Move-4CA2FF?style=for-the-badge&logo=sui&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+[![skillicons](https://skillicons.dev/icons?i=flutter,dart,react,html,css,js)](https://skillicons.dev)
 
-#### 🤖 AI & Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-00FF41?style=for-the-badge&logo=probot&logoColor=black)
+**⚙️ Backend & APIs**
 
-#### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![skillicons](https://skillicons.dev/icons?i=nodejs,java,spring,python,fastapi,supabase,postgres,redis)](https://skillicons.dev)
+
+**⛓️ Blockchain & Web3**
+
+[![skillicons](https://skillicons.dev/icons?i=solidity,ethereum)](https://skillicons.dev)
+
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Sui Move](https://img.shields.io/badge/Sui_Move-4CA2FF?style=flat-square&logoColor=white)
+
+**🤖 AI & Agents**
+
+[![skillicons](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00FF41?style=flat-square&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-Vector_DB-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Generative_AI-8A2BE2?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Multi--Agent_Systems-FF6B35?style=flat-square&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-FF6B35?style=flat-square&logoColor=white)
+
+**🛠️ DevOps & Tools**
+
+[![skillicons](https://skillicons.dev/icons?i=docker,aws,githubactions,git,vscode,linux)](https://skillicons.dev)
+
+</div>
+
 
 ---
 
