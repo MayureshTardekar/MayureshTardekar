@@ -12,9 +12,12 @@
 
 </div>
 
----
+<br/>
 
-<!--
+<hr/>
+
+<br/>
+
 ```
 mayuresh@SPIT:~$ whoami
   Mayuresh Tardekar
@@ -41,7 +44,6 @@ mayuresh@SPIT:~$ cat stats.txt
 
 mayuresh@SPIT:~$ _
 ```
--->
 
 ---
 
@@ -150,15 +152,7 @@ END_SECTION:waka
 
 ---
 
-## 🐍 Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayureshTardekar&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&hide_border=true&radius=8)](https://github.com/MayureshTardekar)
-
-</div>
-
----
 
 ## 🎵 Now Playing on Spotify
 
