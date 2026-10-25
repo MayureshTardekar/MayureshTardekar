@@ -12,39 +12,6 @@
 
 </div>
 
-<br/>
-
-<hr/>
-
-<br/>
-
-```
-mayuresh@SPIT:~$ whoami
-  Mayuresh Tardekar
-  MCA Student @ SPIT, Andheri (Sardar Patel Institute of Technology), Mumbai
-
-mayuresh@SPIT:~$ cat current_stack.sh
-  [Mobile / Frontend]  Flutter  |  Dart  |  React  |  JavaScript
-  [Backend / APIs  ]  Node.js  |  Java  |  Spring Boot  |  FastAPI  |  Python
-  [Blockchain / Web3]  Solidity  |  Sui Move  |  Hardhat  |  Web3.js
-  [AI / Agents     ]  LangChain  |  LangGraph  |  Gemini  |  Claude Code
-  [Context Eng.    ]  Prompt Design  |  RAG  |  Multi-Agent Orchestration
-  [DevOps          ]  Docker  |  GitHub Actions  |  CI/CD  |  Linux
-  [Database        ]  PostgreSQL  |  Supabase  |  Redis
-
-mayuresh@SPIT:~$ cat mission.txt
-  [01] Building AgentForge  --  AI Multi-Agent Orchestration Platform
-  [02] Building Connekt     --  Campus Social Super-App (Flutter)
-  [03] Exploring Web3       --  DeFi  |  NFTs  |  Smart Contracts
-
-mayuresh@SPIT:~$ cat stats.txt
-  LeetCode    --  216 problems solved  |  #709354 Global Rank
-  Wakatime    --  Tracking every hour I code. Always.
-  Uptime      --  Coding since 2021  |  No sleep mode detected.
-
-mayuresh@SPIT:~$ _
-```
-
 ---
 
 ## 🧠 Tech Stack
