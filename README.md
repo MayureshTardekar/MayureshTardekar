@@ -103,13 +103,11 @@ END_SECTION:waka
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![ForgeAgent](https://img.shields.io/badge/🤖_ForgeAgent-Live_Website-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
-
-[![Dexter Write](https://img.shields.io/badge/Dexter_Write-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://dexter-writer.vercel.app/)
-
-</div>
+| [ForgeAgent](https://forgeagent.in/) | [Dexter Write](https://dexter-writer.vercel.app/) |
+| :--- | :--- |
+| <a href="https://forgeagent.in/"><img src="https://mayureshlife.website/images/agentforge.png" alt="ForgeAgent dashboard" width="360"></a> | <a href="https://dexter-writer.vercel.app/"><img src="https://mayureshlife.website/images/dexter-write.png" alt="Dexter Write editor and preview" width="360"></a> |
+| Build and embed AI chatbots that answer from your own documents. | Write in Markdown or LaTeX, review AI edits, and export to PDF. |
+| [Live site](https://forgeagent.in/) · [Case study](https://mayureshlife.website/projects/agentforge) | [Live demo](https://dexter-writer.vercel.app/) · [Source code](https://github.com/MayureshTardekar/Dexter-Writer) |
 
 ---
 
@@ -119,7 +117,7 @@ END_SECTION:waka
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
