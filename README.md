@@ -8,6 +8,7 @@
 [![X (Twitter)](https://img.shields.io/badge/@mayuuuop-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayuuuop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuop)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mayuresh1205/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://mayureshlife.website/)
 <!-- [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MayuOP) -->
 
 </div>
@@ -86,14 +87,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Mayuresh1205?theme=dark&font=Fira+Code&border=0&width=500)](https://leetcode.com/u/Mayuresh1205/)
 
-[![Easy](https://img.shields.io/badge/Easy-92-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
-[![Medium](https://img.shields.io/badge/Medium-94-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
-[![Hard](https://img.shields.io/badge/Hard-30-ef4743?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
-[![Rank](https://img.shields.io/badge/Global_Rank-%23709354-5b21b6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayuresh1205/)
-
 </div>
-
----
 
 <!--
 ## ⏱️ Wakatime Coding Activity
@@ -111,7 +105,7 @@ END_SECTION:waka
 
 <div align="center">
 
-[![AgentForge](https://img.shields.io/badge/🤖_AgentForge-Live_Website-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
+[![ForgeAgent](https://img.shields.io/badge/🤖_ForgeAgent-Live_Website-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 
 [![EzyVote](https://img.shields.io/badge/🗳️_EzyVote-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ezyvote-git-stable-vite5-mayuresh0512s-projects.vercel.app/)
 
@@ -121,11 +115,11 @@ END_SECTION:waka
 
 
 
-## 🎵 Now Playing on Spotify
+## 🎵 Spotify
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&profanity=false)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
+[![Spotify](https://img.shields.io/badge/Spotify-View_profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
 
 </div>
 
