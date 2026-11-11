@@ -115,6 +115,16 @@ END_SECTION:waka
 
 
 
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143avmdv4ypgdtobiydyuvbro7m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
 <div align="center">
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
