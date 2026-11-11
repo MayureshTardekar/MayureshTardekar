@@ -107,23 +107,13 @@ END_SECTION:waka
 
 [![ForgeAgent](https://img.shields.io/badge/🤖_ForgeAgent-Live_Website-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://forgeagent.in/)
 
-[![EzyVote](https://img.shields.io/badge/🗳️_EzyVote-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ezyvote-git-stable-vite5-mayuresh0512s-projects.vercel.app/)
+[![Dexter Write](https://img.shields.io/badge/Dexter_Write-Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://dexter-writer.vercel.app/)
 
 </div>
 
 ---
 
 
-
-## 🎵 Spotify
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-View_profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3143avmdv4ypgdtobiydyuvbro7m)
-
-</div>
-
----
 
 <div align="center">
 
