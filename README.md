@@ -106,7 +106,7 @@ END_SECTION:waka
 | [ForgeAgent](https://forgeagent.in/) | [Dexter Write](https://dexter-writer.vercel.app/) |
 | :--- | :--- |
 | <a href="https://forgeagent.in/"><img src="https://mayureshlife.website/images/agentforge.png" alt="ForgeAgent dashboard" width="360"></a> | <a href="https://dexter-writer.vercel.app/"><img src="https://mayureshlife.website/images/dexter-write.png" alt="Dexter Write editor and preview" width="360"></a> |
-| Build and embed AI chatbots that answer from your own documents. | Write in Markdown or LaTeX, review AI edits, and export to PDF. |
+| A SaaS platform for building and deploying AI chatbots. Connect your documents and embed the bot on your website. | An AI writing workspace for Markdown and LaTeX. MCP lets assistants read your document and propose edits you can review. |
 | [Live site](https://forgeagent.in/) · [Case study](https://mayureshlife.website/projects/agentforge) | [Live demo](https://dexter-writer.vercel.app/) · [Source code](https://github.com/MayureshTardekar/Dexter-Writer) |
 
 ---
